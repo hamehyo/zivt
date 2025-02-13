@@ -188,15 +188,15 @@ i, em {font-style: normal;}
 }
 #section1{
     position: relative;
-    background:url("../assets/imgs/bg_004.jpg") no-repeat center/cover;
+    background:url("../imgs/bg_004.jpg") no-repeat center/cover;
 }
 #section2{
     position: relative; 
-    background:url("../assets/imgs/bg_001.jpg") no-repeat center/cover;
+    background:url("../imgs/bg_001.jpg") no-repeat center/cover;
 }
 #section3{
     position: relative; 
-    background:url("../assets/imgs/bg_005.jpg") no-repeat center/cover;
+    background:url("../imgs/bg_005.jpg") no-repeat center/cover;
 }
 .section .txt_box h2{
     padding:20px 0 40px;
